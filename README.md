@@ -1,6 +1,6 @@
 ### Olá, eu sou o Odair, desenvolvedor web full stack! 👋
 
-- 🔭 Hoje trabalho como desenvolvedor web full stack
+- 🔭 Atualmente estou trabalhando como desenvolvedor web full stack, há 2 anos
 - 🌱 Me aperfeiçoando no frontend e criação de componentes
 - 💬 Fale comigo pelo e-mail odairsehnti@gmail.com
 
