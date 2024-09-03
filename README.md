@@ -1,7 +1,8 @@
 ### Olá, eu sou o Odair, desenvolvedor web full stack! 👋
 
-- 🔭 Atualmente estou trabalhando como desenvolvedor web full stack, há 2 anos
-- 🌱 Me aperfeiçoando no frontend e criação de componentes
+- 🔭 3 anos de experiência como dev web full stack, Atualmente trabalhando na empresa [Grupo Dass](https://grupodass.com.br)  
+- 🌱 Me aperfeiçoando no desenvolvimento do fluxo completo de aplicações, arquitetura, backend, prototipação e front-end.
+- ⭐ Especializado em desenvolvimento frontend, com foco em padrões e criação de componentes eficientes e reutilizáveis.
 - 💬 Fale comigo pelo e-mail odairsehnti@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odair-Sehn&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
