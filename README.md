@@ -1,6 +1,6 @@
 ### Olá, eu sou o Odair, desenvolvedor web full stack! 👋
 
-- 🔭 3 anos de experiência como dev web full stack, trabalhando na empresa [Grupo Dass](https://grupodass.com.br)  
+- 🔭 3 anos de experiência como dev web full stack, trabalhando na empresa [Baterlife](https://baterlife.com.br/)  
 - 🌱 Me aperfeiçoando no desenvolvimento do fluxo completo de aplicações, arquitetura, backend, prototipação e front-end.
 - ⭐ Especializado no desenvolvimento front-end, com foco em padrões e criação de componentes eficientes e reutilizáveis.
 - 💬 Fale comigo pelo e-mail odairsehnti@gmail.com
